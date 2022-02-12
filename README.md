@@ -1,5 +1,7 @@
 # ST 2110-30 - SMPTE Standard - Professional Media Over Managed IP Networks: PCM Digital Audio
 
+This repository tracks [ST 2110-30 - SMPTE Standard - Professional Media Over Managed IP Networks: PCM Digital Audio](https://ieeexplore.ieee.org/document/8167392/).
+
 _This repository is *public*._
 
 Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and
